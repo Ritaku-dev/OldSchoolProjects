@@ -1,0 +1,19 @@
+a:\documents storage\visual studio 2015\Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe.config
+a:\documents storage\visual studio 2015\Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe
+a:\documents storage\visual studio 2015\Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.pdb
+a:\documents storage\visual studio 2015\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csprojResolveAssemblyReference.cache
+a:\documents storage\visual studio 2015\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Form1.resources
+a:\documents storage\visual studio 2015\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Properties.Resources.resources
+a:\documents storage\visual studio 2015\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csproj.GenerateResource.Cache
+a:\documents storage\visual studio 2015\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.exe
+a:\documents storage\visual studio 2015\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.pdb
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe.config
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.pdb
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Form1.resources
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.exe
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.pdb
